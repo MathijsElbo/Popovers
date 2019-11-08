@@ -1,0 +1,25 @@
+div h1 {
+    color: rgba(100,100,100,0.6);
+    text-align: center;
+}
+
+div.row {
+    margin-top: 10px;
+}
+
+img {
+    width: 50%;
+}
+
+.popover-body {
+    background-color: grey;
+}
+
+.popover-header {
+    background-color: whitesmoke;
+    color: violet;
+}
+
+.test {
+    color: green;
+}
